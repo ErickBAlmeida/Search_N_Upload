@@ -3,7 +3,7 @@
 Este projeto automatiza o processo de busca, renomeação e upload de arquivos, utilizando planilhas Excel como base de dados.
 
 ## Funcionalidades
-- Busca de nomes de réus e processos em planilhas Excel
+- Busca de nomes de diretórios e processos em planilhas Excel
 - Busca recursiva de arquivos em diretórios de rede
 - Renomeação automática dos arquivos conforme padrão pré estabelecido
 - Upload dos arquivos para uma API via requisição HTTP
